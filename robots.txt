@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://ternsthebird.github.io/sitemap.xml 
