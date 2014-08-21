@@ -16,8 +16,8 @@ You can follow them on Twitter if you want. Maybe they say offensive things, or 
 we aren't too sure of the mindsets that the future will bring these two rapidly devolving humans.
 The future looks pretty bleak for these two, honestly.
 
-Matt: [arctic_matt](https://twitter.com/arctic_matt)
+Matt: [arctic_matt](https://twitter.com/arctic_matt)  
 Matthew: [_wampa__stompa](https://twitter.com/_wampa__stompa)
 
-Lycka Till,
+Lycka Till,  
 A Terns The Bird Supporter
