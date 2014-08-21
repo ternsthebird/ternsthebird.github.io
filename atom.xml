@@ -4,7 +4,7 @@
   <title><![CDATA[Terns The Bird's Blog of Awesome]]></title>
   <link href="http://ternsthebird.github.io/atom.xml" rel="self"/>
   <link href="http://ternsthebird.github.io/"/>
-  <updated>2014-08-20T16:18:05-07:00</updated>
+  <updated>2014-08-20T17:19:12-07:00</updated>
   <id>http://ternsthebird.github.io/</id>
   <author>
     <name><![CDATA[matt.l & matthew.e]]></name>
@@ -12,5 +12,14 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Welcome Travellers]]></title>
+    <link href="http://ternsthebird.github.io/blog/2014/08/20/welcome-travellers/"/>
+    <updated>2014-08-20T16:45:11-07:00</updated>
+    <id>http://ternsthebird.github.io/blog/2014/08/20/welcome-travellers</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
 </feed>
