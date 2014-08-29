@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Terns The Bird's Blog of Awesome]]></title>
-  <link href="http://ternsthebird.github.io/atom.xml" rel="self"/>
+  <title><![CDATA[Category: Music, | Terns The Bird's Blog of Awesome]]></title>
+  <link href="http://ternsthebird.github.io/blog/categories/music/atom.xml" rel="self"/>
   <link href="http://ternsthebird.github.io/"/>
   <updated>2014-08-29T16:46:32-07:00</updated>
   <id>http://ternsthebird.github.io/</id>
@@ -36,7 +36,7 @@ Relax and enjoy the warm summer day.</p>
 <p>this song reminds me of a game by terry cavanagh: <a href="http://www.kongregate.com/games/TerryCavanagh_B/heros-adventure">hero&rsquo;s adventure</a></p>
 
 <p>if the song were an image, it might look like this:<br/>
-<img src="http://ternsthebird.github.io/images/posts/cop_wavves.png" alt="john, sitting back and relaxing" /></p>
+<img src="/images/posts/cop_wavves.png" alt="john, sitting back and relaxing" /></p>
 
 <p><em>by matthew</em></p>
 ]]></content>
